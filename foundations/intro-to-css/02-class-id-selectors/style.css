@@ -1,0 +1,7 @@
+/*All odd numbered elements get a light red/pink background,
+and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback*/
+
+.paragraph, .cooler {
+	background-color: #f6a8a8;
+	font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
