@@ -5,3 +5,8 @@ and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as 
 	background-color: #f6a8a8;
 	font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
+
+#OneID {
+	color: #225cf6;
+	font-size: 36px;
+}
