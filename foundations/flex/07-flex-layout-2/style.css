@@ -36,6 +36,12 @@ body {
   display: flex;
 }
 
+.card-content {
+  padding: 48px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .footer {
   border: 2px solid red;
   height: 72px;
