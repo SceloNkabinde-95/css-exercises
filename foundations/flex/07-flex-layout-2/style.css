@@ -64,10 +64,12 @@ ul {
 }
 
 a {
-  /* font-size: 22px;
+  /* ;
   background: white;
   padding: 8px; */
   /* this removes the line under the links */
+
+  font-size: 24px;
   text-decoration: none;
   color: white;
 }
