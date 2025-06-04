@@ -41,6 +41,7 @@ body {
 
 .top-bar {
   display: flex;
+  margin-bottom: 10px;
 }
 
 .header {
