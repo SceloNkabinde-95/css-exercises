@@ -6,7 +6,7 @@ body {
 }
 
 .main-container {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -14,7 +14,7 @@ body {
 }
 
 .header {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   height: 72px;
   background: darkmagenta;
   color: white;
@@ -29,7 +29,7 @@ body {
 }
 
 .content {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   flex-grow: 1;
   margin-top: auto;
 
@@ -50,7 +50,7 @@ body {
 }
 
 .footer {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   height: 72px;
   background: #eee;
   color: darkmagenta;
