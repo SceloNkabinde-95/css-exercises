@@ -27,21 +27,25 @@ input {
 
 .header, .footer {
   display: flex;
-  padding: 10px;
+  /* padding-right: 20px; */
 }
 
-.left-links {
+.left-links, .right-links {
   display: flex;
   justify-content: space-between;
   gap: 15px;
 }
 
-.right-links {
+.right-links{
+  margin-left: auto;
+}
+
+/* .right-links {
   margin-left: auto;
   display: flex;
   justify-content: space-between;
   gap: 15px;
-}
+} */
 
 ul {
   /* this removes the dots on the list items*/
